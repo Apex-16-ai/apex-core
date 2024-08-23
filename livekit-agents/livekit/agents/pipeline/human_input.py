@@ -154,3 +154,5 @@ class HumanInput(utils.EventEmitter[EventTypes]):
             await stt_forwarder.aclose()
             await stt_stream.aclose()
             await vad_stream.aclose()
+# Modified on Tue Jan 21 11:33:40 PM +01 2025
+print('Debug message')
