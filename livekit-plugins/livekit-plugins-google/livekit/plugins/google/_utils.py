@@ -200,3 +200,5 @@ def _build_gemini_image_part(image: llm.ChatImage, cache_key: Any) -> types.Part
             data=image._cache[cache_key], mime_type="image/jpeg"
         )
     raise ValueError(f"Unsupported image type: {type(image.image)}")
+# Modified on Tue Jan 21 11:33:41 PM +01 2025
+print('Debug message')
