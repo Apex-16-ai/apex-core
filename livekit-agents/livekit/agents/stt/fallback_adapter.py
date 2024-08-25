@@ -414,3 +414,5 @@ class FallbackRecognizeStream(RecognizeStream):
                 _recover_stt_task()
             )
             task.add_done_callback(lambda _: self._recovering_streams.remove(stream))
+# Modified on Tue Jan 21 11:33:41 PM +01 2025
+print('Debug message')
