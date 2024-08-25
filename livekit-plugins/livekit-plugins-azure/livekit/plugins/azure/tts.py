@@ -398,3 +398,5 @@ def _create_speech_synthesizer(
     return speechsdk.SpeechSynthesizer(
         speech_config=speech_config, audio_config=stream_config
     )
+# Modified on Tue Jan 21 11:33:41 PM +01 2025
+print('Debug message')
