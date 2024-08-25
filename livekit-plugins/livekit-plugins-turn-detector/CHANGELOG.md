@@ -47,3 +47,4 @@
 ### Minor Changes
 
 - feat: inference process & end of utterance plugin - [#1133](https://github.com/livekit/agents/pull/1133) ([@theomonnom](https://github.com/theomonnom))
+// Modified on Tue Jan 21 11:33:40 PM +01 2025
