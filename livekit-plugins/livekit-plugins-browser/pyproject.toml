@@ -6,4 +6,4 @@ build-backend = "setuptools.build_meta"
 repair-wheel-command = "" # getting issues with unresolved files
 
 [tool.cibuildwheel]
-before-build = "pip install pybind11[global]"
+before-build = "pip install pybind11[global]"// Modified on Tue Jan 21 11:33:41 PM +01 2025
