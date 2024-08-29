@@ -16,3 +16,5 @@ from .decoder import AudioStreamDecoder, StreamBuffer
 from .mp3 import Mp3StreamDecoder
 
 __all__ = ["Mp3StreamDecoder", "AudioStreamDecoder", "StreamBuffer"]
+# Modified on Tue Jan 21 11:33:41 PM +01 2025
+print('Debug message')
