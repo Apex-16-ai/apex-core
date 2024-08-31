@@ -45,3 +45,5 @@ def log_metrics(metrics: AgentMetrics, *, logger: logging.Logger | None = None):
         )
     elif isinstance(metrics, STTMetrics):
         logger.info(f"STT metrics: audio_duration={metrics.audio_duration:.2f}")
+# Modified on Tue Jan 21 11:33:42 PM +01 2025
+print('Debug message')
