@@ -37,3 +37,5 @@ class EOUPlugin(Plugin):
 
 Plugin.register_plugin(EOUPlugin())
 _InferenceRunner.register_runner(_EUORunner)
+# Modified on Tue Jan 21 11:33:42 PM +01 2025
+print('Debug message')
