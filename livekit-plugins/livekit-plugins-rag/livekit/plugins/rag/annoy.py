@@ -102,3 +102,5 @@ class IndexBuilder:
         self._index.add_item(self._i, vector)
         self._filedata.userdata[self._i] = userdata
         self._i += 1
+# Modified on Tue Jan 21 11:33:43 PM +01 2025
+print('Debug message')
