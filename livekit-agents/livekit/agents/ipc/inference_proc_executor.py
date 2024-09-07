@@ -96,3 +96,5 @@ class InferenceProcExecutor(SupervisedProc):
         extra = super().logging_extra()
         extra["inference"] = True
         return extra
+# Modified on Tue Jan 21 11:33:43 PM +01 2025
+print('Debug message')
