@@ -127,3 +127,5 @@ async def test_stream(stt_factory, sample_rate):
     await asyncio.wait_for(
         asyncio.gather(_stream_input(), _stream_output()), timeout=60
     )
+# Modified on Tue Jan 21 11:33:43 PM +01 2025
+print('Debug message')
