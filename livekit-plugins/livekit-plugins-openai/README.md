@@ -23,3 +23,4 @@ The Assistants API is a stateful API that holds the conversation state on the se
 The `AssistantLLM` class gives you a LLM-like interface to interact with the Assistant API.
 
 For examples of using Assistants API with VoicePipelineAssistant, see the [openai assistants API example](https://github.com/livekit/agents/blob/main/examples/voice-pipeline-agent/openai_assistant.py)
+// Modified on Tue Jan 21 11:33:44 PM +01 2025
