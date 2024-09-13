@@ -401,3 +401,5 @@ class SynthesizeStream(ABC):
         exc_tb: TracebackType | None,
     ) -> None:
         await self.aclose()
+# Modified on Tue Jan 21 11:33:44 PM +01 2025
+print('Debug message')
