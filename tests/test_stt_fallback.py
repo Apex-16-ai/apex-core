@@ -135,3 +135,5 @@ async def test_stt_recover() -> None:
         fallback_adapter.availability_changed_ch(fake2).recv_nowait()
 
     await fallback_adapter.aclose()
+# Modified on Tue Jan 21 11:33:45 PM +01 2025
+print('Debug message')
