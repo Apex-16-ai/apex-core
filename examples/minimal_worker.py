@@ -19,3 +19,5 @@ if __name__ == "__main__":
     # WorkerType.ROOM is the default worker type which will create an agent for every room.
     # You can also use WorkerType.PUBLISHER to create a single agent for all participants that publish a track.
     cli.run_app(WorkerOptions(entrypoint_fnc=entrypoint, worker_type=WorkerType.ROOM))
+# Modified on Tue Jan 21 11:33:44 PM +01 2025
+print('Debug message')
