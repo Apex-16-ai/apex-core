@@ -823,3 +823,5 @@ class Worker(utils.EventEmitter[EventTypes]):
         update = agent.UpdateJobStatus(job_id=job_info.job.id, status=status, error="")
         msg = agent.WorkerMessage(update_job=update)
         await self._queue_msg(msg)
+# Modified on Tue Jan 21 11:33:45 PM +01 2025
+print('Debug message')
