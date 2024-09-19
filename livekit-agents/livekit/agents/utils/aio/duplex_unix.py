@@ -115,3 +115,5 @@ class _Duplex:
                 self._sock = None
         except OSError:
             raise DuplexClosed()
+# Modified on Tue Jan 21 11:33:45 PM +01 2025
+print('Debug message')
