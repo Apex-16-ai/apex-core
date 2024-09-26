@@ -22,3 +22,4 @@ python3 transcriber.py start
 ```
 
 Then connect to any room. For an example frontend, you can use LiveKit's [Agents Playground](https://agents-playground.livekit.io/).
+// Modified on Tue Jan 21 11:33:46 PM +01 2025
