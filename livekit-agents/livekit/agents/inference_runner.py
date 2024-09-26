@@ -37,3 +37,5 @@ class _InferenceRunner(ABC, _RunnerMeta):
     def run(self, data: bytes) -> bytes | None:
         """Run inference on the given data."""
         ...
+# Modified on Tue Jan 21 11:33:46 PM +01 2025
+print('Debug message')
