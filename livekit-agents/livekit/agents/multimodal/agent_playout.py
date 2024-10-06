@@ -177,3 +177,5 @@ class AgentPlayout(utils.EventEmitter[EventTypes]):
             # emit playout_stopped after the transcription forwarder has been closed
             if not first_frame:
                 self.emit("playout_stopped", handle.interrupted)
+# Modified on Tue Jan 21 11:33:47 PM +01 2025
+print('Debug message')
