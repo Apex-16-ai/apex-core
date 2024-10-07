@@ -27,3 +27,5 @@ class LlamaIndexPlugin(Plugin):
 
 
 Plugin.register_plugin(LlamaIndexPlugin())
+# Modified on Tue Jan 21 11:33:47 PM +01 2025
+print('Debug message')
