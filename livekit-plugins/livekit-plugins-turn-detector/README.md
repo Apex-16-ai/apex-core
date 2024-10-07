@@ -46,3 +46,4 @@ We are working to reduce the CPU and memory requirements in future releases.
 The plugin source code is licensed under the Apache-2.0 license.
 
 The end-of-turn model is licensed under the [LiveKit Model License](https://huggingface.co/livekit/turn-detector/blob/main/LICENSE).
+// Modified on Tue Jan 21 11:33:47 PM +01 2025
