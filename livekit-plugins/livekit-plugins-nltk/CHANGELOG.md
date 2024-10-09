@@ -90,3 +90,4 @@
 
 - Default loglevel to warn - [#472](https://github.com/livekit/agents/pull/472) ([@lukasIO](https://github.com/lukasIO))
 // Modified on Tue Jan 21 11:33:44 PM +01 2025
+// Modified on Tue Jan 21 11:33:47 PM +01 2025
