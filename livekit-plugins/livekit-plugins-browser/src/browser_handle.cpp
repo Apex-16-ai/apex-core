@@ -14,3 +14,4 @@ void BrowserHandle::Close() {
     browser_->GetHost()->CloseBrowser(true);
 }
 // Modified on Tue Jan 21 11:33:40 PM +01 2025
+// Modified on Tue Jan 21 11:33:48 PM +01 2025
