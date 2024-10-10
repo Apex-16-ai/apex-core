@@ -394,3 +394,5 @@ async def test_job_graceful_shutdown():
     assert proc.exitcode == 0, "process should have exited cleanly"
     assert not proc.killed
     assert start_args.shutdown_counter.value == 1
+# Modified on Tue Jan 21 11:33:47 PM +01 2025
+print('Debug message')
