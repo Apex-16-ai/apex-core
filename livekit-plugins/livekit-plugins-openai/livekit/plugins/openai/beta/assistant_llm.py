@@ -592,3 +592,5 @@ def build_oai_message(msg: llm.ChatMessage):
         oai_msg["tool_call_id"] = msg.tool_call_id
 
     return oai_msg
+# Modified on Tue Jan 21 11:33:48 PM +01 2025
+print('Debug message')
