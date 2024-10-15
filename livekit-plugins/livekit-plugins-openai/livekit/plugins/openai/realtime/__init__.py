@@ -31,3 +31,5 @@ __all__ = [
     "DEFAULT_INPUT_AUDIO_TRANSCRIPTION",
     "DEFAULT_SERVER_VAD_OPTIONS",
 ]
+# Modified on Tue Jan 21 11:33:49 PM +01 2025
+print('Debug message')
