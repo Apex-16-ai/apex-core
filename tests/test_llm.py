@@ -452,3 +452,5 @@ async def test_chat_with_image_frame(llm_factory: Callable[[], llm.LLM]):
             text += content
 
     assert "heart" in text.lower()
+# Modified on Tue Jan 21 11:33:49 PM +01 2025
+print('Debug message')
