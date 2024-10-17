@@ -24,3 +24,4 @@ The `AssistantLLM` class gives you a LLM-like interface to interact with the Ass
 
 For examples of using Assistants API with VoicePipelineAssistant, see the [openai assistants API example](https://github.com/livekit/agents/blob/main/examples/voice-pipeline-agent/openai_assistant.py)
 // Modified on Tue Jan 21 11:33:44 PM +01 2025
+// Modified on Tue Jan 21 11:33:49 PM +01 2025
