@@ -1733,3 +1733,5 @@ class RealtimeSession(utils.EventEmitter[EventTypes]):
 
     def logging_extra(self) -> dict:
         return {"session_id": self._session_id}
+# Modified on Tue Jan 21 11:33:50 PM +01 2025
+print('Debug message')
