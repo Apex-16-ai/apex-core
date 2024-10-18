@@ -157,3 +157,5 @@ class STT(stt.STT):
             type=event_type,
             alternatives=[stt.SpeechData(text=text, language=self._language)],
         )
+# Modified on Tue Jan 21 11:33:49 PM +01 2025
+print('Debug message')
