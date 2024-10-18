@@ -313,3 +313,5 @@ def thread_main(
         client.run()
     finally:
         args.join_fnc()
+# Modified on Tue Jan 21 11:33:49 PM +01 2025
+print('Debug message')
