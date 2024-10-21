@@ -106,3 +106,5 @@ class WizperSTT(stt.STT):
 
     async def aclose(self) -> None:
         await self._fal_client._client.aclose()
+# Modified on Tue Jan 21 11:33:50 PM +01 2025
+print('Debug message')

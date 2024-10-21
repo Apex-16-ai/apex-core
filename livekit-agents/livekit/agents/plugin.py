@@ -53,3 +53,5 @@ class Plugin(ABC):
     @property
     def logger(self) -> logging.Logger | None:
         return self._logger
+# Modified on Tue Jan 21 11:33:50 PM +01 2025
+print('Debug message')
