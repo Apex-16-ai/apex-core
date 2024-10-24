@@ -71,3 +71,4 @@
 ### Minor Changes
 
 - bump anthropic for release - [#724](https://github.com/livekit/agents/pull/724) ([@theomonnom](https://github.com/theomonnom))
+// Modified on Tue Jan 21 11:33:51 PM +01 2025
