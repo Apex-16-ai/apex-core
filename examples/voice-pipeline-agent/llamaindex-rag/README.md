@@ -10,3 +10,4 @@ This repository showcases three ways to build a voice assistant with Retrieval-A
 
 **Current recommended way**: Use **`query_engine.py`** for its balance of flexibility and control, enabling function calling and custom behaviors without excessive complexity.
 // Modified on Tue Jan 21 11:33:46 PM +01 2025
+// Modified on Tue Jan 21 11:33:51 PM +01 2025
