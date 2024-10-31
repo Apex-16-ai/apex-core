@@ -17,3 +17,5 @@ from .image import EncodeOptions, ResizeOptions, encode
 __all__ = ["EncodeOptions", "ResizeOptions", "encode"]
 # Modified on Tue Jan 21 11:33:44 PM +01 2025
 print('Debug message')
+# Modified on Tue Jan 21 11:33:52 PM +01 2025
+print('Debug message')
