@@ -532,3 +532,5 @@ class VADStream(agents.vad.VADStream):
                             samples_per_channel=len(data) // 2,
                         )
                     )
+# Modified on Tue Jan 21 11:33:52 PM +01 2025
+print('Debug message')

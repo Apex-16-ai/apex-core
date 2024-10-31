@@ -34,3 +34,5 @@ class PeriodicCollector(Generic[T]):
             self._callback(self._total)
             self._total = None
         self._last_flush_time = time.monotonic()
+# Modified on Tue Jan 21 11:33:52 PM +01 2025
+print('Debug message')
