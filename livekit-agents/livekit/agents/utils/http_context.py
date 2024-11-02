@@ -45,3 +45,5 @@ async def _close_http_ctx():
         logger.debug("http_session(): closing the httpclient ctx")
         await val().close()  # type: ignore
         _ContextVar.set(None)  # type: ignore
+# Modified on Tue Jan 21 11:33:52 PM +01 2025
+print('Debug message')
