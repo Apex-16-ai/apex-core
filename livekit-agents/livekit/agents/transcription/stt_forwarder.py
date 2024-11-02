@@ -124,3 +124,5 @@ class STTSegmentsForwarder:
 
         with contextlib.suppress(asyncio.CancelledError):
             await self._main_task
+# Modified on Tue Jan 21 11:33:52 PM +01 2025
+print('Debug message')
