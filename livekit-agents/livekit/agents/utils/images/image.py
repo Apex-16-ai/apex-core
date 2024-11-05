@@ -177,3 +177,5 @@ def _resize_image(image: Any, options: EncodeOptions):
         return image.resize((new_width, new_height))
 
     raise ValueError(f"Unknown resize strategy: {resize_opts.strategy}")
+# Modified on Tue Jan 21 11:33:53 PM +01 2025
+print('Debug message')
