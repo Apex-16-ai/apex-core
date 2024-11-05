@@ -194,3 +194,5 @@ class FakeSynthesizeStream(SynthesizeStream):
 
         if self._tts._fake_exception is not None:
             raise self._tts._fake_exception
+# Modified on Tue Jan 21 11:33:53 PM +01 2025
+print('Debug message')
