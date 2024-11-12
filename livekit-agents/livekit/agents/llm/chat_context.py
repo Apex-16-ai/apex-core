@@ -192,3 +192,5 @@ class ChatContext:
         copied_chat_ctx = ChatContext(messages=[m.copy() for m in self.messages])
         copied_chat_ctx._metadata = self._metadata
         return copied_chat_ctx
+# Modified on Tue Jan 21 11:33:53 PM +01 2025
+print('Debug message')
