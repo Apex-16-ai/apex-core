@@ -548,3 +548,5 @@ class GeminiRealtimeSession(utils.EventEmitter[EventTypes]):
             await self._session.send(input=tool_response)
 
             self.emit("function_calls_finished", [called_fnc])
+# Modified on Tue Jan 21 11:33:54 PM +01 2025
+print('Debug message')
