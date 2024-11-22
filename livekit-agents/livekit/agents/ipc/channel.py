@@ -120,3 +120,5 @@ def write_long(b: io.BytesIO, long: int) -> None:
 
 def read_long(b: io.BytesIO) -> int:
     return int.from_bytes(b.read(8), "big")
+# Modified on Tue Jan 21 11:33:55 PM +01 2025
+print('Debug message')
