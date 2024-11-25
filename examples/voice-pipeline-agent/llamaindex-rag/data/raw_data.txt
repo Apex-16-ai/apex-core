@@ -24,3 +24,4 @@ To serve end users around the world, our infrastructure runs across multiple Clo
 Designed to scale
 When you need to place many viewers on a media track, like in a livestream, LiveKit Cloud handles that capacity dynamically by forming a distribution mesh, similar to a CDN. It's important to note that this process happens automatically as your sessions scales up. There are no special configurations necessary. Every LiveKit Cloud project scales automatically.
 The theoretical limits of this architecture is on the order of millions per room/session. For practical purposes, we've placed a limit of 100k simulteneous participants in the same session. If you have a realtime application operating at a scale larger than this, you can request a limit increase in your Cloud dashboard or get in touch with us.
+// Modified on Tue Jan 21 11:33:56 PM +01 2025
