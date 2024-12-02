@@ -194,3 +194,5 @@ def copy_paint_data(
         for rect in dirty_rects:
             x, y, w, h = rect
             dest_arr[y : y + h, x : x + w] = source_arr[y : y + h, x : x + w]
+# Modified on Tue Jan 21 11:33:57 PM +01 2025
+print('Debug message')
