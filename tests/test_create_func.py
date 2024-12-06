@@ -226,3 +226,5 @@ def test_func_with_enum_parameter():
     assert build_arg_info["description"] == arg_info.description
     assert build_arg_info["type"] == "string"
     assert build_arg_info["enum"] == arg_info.choices
+# Modified on Tue Jan 21 11:33:58 PM +01 2025
+print('Debug message')
