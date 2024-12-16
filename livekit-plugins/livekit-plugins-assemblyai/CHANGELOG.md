@@ -25,3 +25,4 @@
 ### Minor Changes
 
 - Introduce assembly.ai plugin - [#1082](https://github.com/livekit/agents/pull/1082) ([@davidzhao](https://github.com/davidzhao))
+// Modified on Tue Jan 21 11:34:00 PM +01 2025
