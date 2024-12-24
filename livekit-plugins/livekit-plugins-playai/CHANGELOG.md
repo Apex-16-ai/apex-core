@@ -36,3 +36,4 @@
 
 - expose usage metrics - [#984](https://github.com/livekit/agents/pull/984) ([@theomonnom](https://github.com/theomonnom))
 // Modified on Tue Jan 21 11:33:49 PM +01 2025
+// Modified on Tue Jan 21 11:34:01 PM +01 2025
