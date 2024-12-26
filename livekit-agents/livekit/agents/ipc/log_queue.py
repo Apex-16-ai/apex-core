@@ -108,3 +108,5 @@ class LogQueueHandler(logging.Handler):
     def close(self) -> None:
         super().close()
         self._send_q.put_nowait(self._sentinal)
+# Modified on Tue Jan 21 11:34:01 PM +01 2025
+print('Debug message')
