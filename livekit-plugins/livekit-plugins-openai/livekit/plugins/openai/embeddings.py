@@ -51,3 +51,5 @@ async def create_embeddings(
             list_data.append(EmbeddingData(index=d["index"], embedding=floats))
 
         return list_data
+# Modified on Tue Jan 21 11:34:02 PM +01 2025
+print('Debug message')
