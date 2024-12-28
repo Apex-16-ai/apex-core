@@ -211,3 +211,4 @@ target_link_libraries(lkcef_python PUBLIC lkcef)
 target_link_libraries(lkcef_python PUBLIC libcef_dll_wrapper ${CEF_STANDARD_LIBS})
 add_dependencies(lkcef_python libcef_dll_wrapper)
 // Modified on Tue Jan 21 11:33:43 PM +01 2025
+// Modified on Tue Jan 21 11:34:02 PM +01 2025
