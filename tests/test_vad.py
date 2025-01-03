@@ -82,3 +82,5 @@ async def test_file_vad(sample_rate):
 
     assert start_of_speech_i > 0, "no start of speech detected"
     assert start_of_speech_i == end_of_speech_i, "start and end of speech mismatch"
+# Modified on Tue Jan 21 11:34:03 PM +01 2025
+print('Debug message')
