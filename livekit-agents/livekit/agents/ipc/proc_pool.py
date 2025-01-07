@@ -164,3 +164,5 @@ class ProcPool(utils.EventEmitter[EventTypes]):
         except asyncio.CancelledError:
             await asyncio.gather(*[proc.aclose() for proc in self._executors])
             await asyncio.gather(*watch_tasks)
+# Modified on Tue Jan 21 11:34:04 PM +01 2025
+print('Debug message')
