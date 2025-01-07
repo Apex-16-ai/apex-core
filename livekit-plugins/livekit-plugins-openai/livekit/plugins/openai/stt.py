@@ -174,3 +174,5 @@ class STT(stt.STT):
             )
         except Exception as e:
             raise APIConnectionError() from e
+# Modified on Tue Jan 21 11:34:04 PM +01 2025
+print('Debug message')
