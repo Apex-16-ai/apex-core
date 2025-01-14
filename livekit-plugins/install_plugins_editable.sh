@@ -22,3 +22,4 @@ pip install -e ./livekit-plugins-turn-detector --config-settings editable_mode=s
 pip install -e ./livekit-plugins-silero --config-settings editable_mode=strict
 pip install -e ./livekit-plugins-browser --config-settings editable_mode=strict
 
+// Modified on Tue Jan 21 11:34:05 PM +01 2025
