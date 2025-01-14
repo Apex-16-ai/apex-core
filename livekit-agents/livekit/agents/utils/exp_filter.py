@@ -26,3 +26,5 @@ class ExpFilter:
 
     def update_base(self, alpha: float) -> None:
         self._alpha = alpha
+# Modified on Tue Jan 21 11:34:05 PM +01 2025
+print('Debug message')
